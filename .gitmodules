@@ -8,6 +8,9 @@
 [submodule "GWmodel"]
 	path = GWmodel
 	url = https://github.com/cran/GWmodel
+[submodule "GWmodelVis"]
+	path = GWmodelVis
+	url = https://github.com/cran/GWmodelVis
 [submodule "shp2graph"]
 	path = shp2graph
 	url = https://github.com/cran/shp2graph
